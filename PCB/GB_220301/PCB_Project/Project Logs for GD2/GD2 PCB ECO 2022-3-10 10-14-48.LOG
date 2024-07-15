@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PWM_R Pin=C2000-A6
+Removed Pin From Net: NetName=PWM_G Pin=C2000-A10
+Removed Pin From Net: NetName=PWM_B Pin=C2000-A14
+Removed Pin From Net: NetName=PWM2 Pin=C2000-A22
+Removed Pin From Net: NetName=PWM3 Pin=C2000-A26
+Removed Pin From Net: NetName=PWM4 Pin=C2000-A30
+Added Pin To Net: NetName=PWM4 Pin=C2000-A6
+Added Pin To Net: NetName=PWM3 Pin=C2000-A10
+Added Pin To Net: NetName=PWM2 Pin=C2000-A14
+Added Pin To Net: NetName=PWM_G Pin=C2000-A22
+Added Pin To Net: NetName=PWM_R Pin=C2000-A26
+Added Pin To Net: NetName=PWM_B Pin=C2000-A30
+Added Room: Name=GD2

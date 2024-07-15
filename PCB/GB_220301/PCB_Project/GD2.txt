@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\SICDOCS\GRADUATE_DESIGNER\PCB\GB_220301\PCB_Project\GD2.PcbDoc
+Date         : 2022/3/10
+Time         : 17:55:51
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 65.30%
+    Connections, 536
+    Connections routed, 350
+    Connections remaining, 186
+count : 4
